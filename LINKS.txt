@@ -1,0 +1,5 @@
+https://wiki.mikejung.biz/Performance_Analysis#lstrace
+
+http://www.thegeekstuff.com/2011/03/linux-performance-monitoring-intro/?utm_source=feedburner
+
+https://sahilshekhawat.gitbooks.io/optimizing-linux-performance/content/
